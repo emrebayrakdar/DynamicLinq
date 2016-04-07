@@ -1,0 +1,1 @@
+c:\users\emre\documents\visual studio 2013\Projects\DynamicLinq\DynamicLinq\bin\Debug\DynamicLinq.exe.config
